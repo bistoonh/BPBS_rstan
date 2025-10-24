@@ -5,6 +5,5 @@ I have written a code for Penalized B-Spline implantation and attached it here. 
 Please see it and let me know your opinion. You should have already installed "rstan" and "splines" library in R. I hope to be useful to a person.
 
 
-With Best Wishes for Stan Group,
-
+With Best Wishes for Stan Group,\n
 Bistoon
